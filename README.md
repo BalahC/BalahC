@@ -12,7 +12,7 @@
   - [ARIMA & Prophet Models for Demand Forecasting](https://github.com/yourusername/sales-forecasting-time-series)
 
 - <b>Exploratory Data Analysis (EDA)</b>  
-  - [Data Cleaning, Visualization & Insight Generation](https://github.com/yourusername/data-eda-project)
+  - [Data Cleaning, Visualization & Insight Generation](https://github.com/BalahC/Dashboardusing_Tableau)
 
 - <b>NLP Sentiment Analysis</b>  
   - [Movie Reviews Classification using TF-IDF and Logistic Regression](https://github.com/yourusername/sentiment-analysis-nlp)
