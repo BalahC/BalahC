@@ -5,14 +5,19 @@
 
 <h2>📊 Data Science & Analytics Projects:</h2>
 
+- <b>Interactive Dashboard</b>  
+  - [HR Analysis with attrition KPIs in Tableau](https://public.tableau.com/app/profile/shing.balah.clouston/viz/HRDASHBOARD_17446412937940/HRANALYSTICDASHBOARD)
+  - [HR Analysis with attrition KPIs in Tableau](https://public.tableau.com/app/profile/shing.balah.clouston/viz/HRDASHBOARD_17446412937940/HRANALYSTICDASHBOARD)
+
+- <b>Exploratory Data Analysis (EDA)</b>  
+  - [Data Cleaning, Visualization & Insight Generation](https://github.com/BalahC/Sales-Analysis-Dashboard-)
+
 - <b>Customer Churn Prediction</b>  
   - [Logistic Regression & XGBoost Model for Telecom Churn](https://github.com/yourusername/customer-churn-prediction)
 
 - <b>Sales Forecasting with Time Series</b>  
   - [ARIMA & Prophet Models for Demand Forecasting](https://github.com/yourusername/sales-forecasting-time-series)
 
-- <b>Exploratory Data Analysis (EDA)</b>  
-  - [Data Cleaning, Visualization & Insight Generation](https://github.com/BalahC/Sales-Analysis-Dashboard-)
 
 - <b>NLP Sentiment Analysis</b>  
   - [Movie Reviews Classification using TF-IDF and Logistic Regression](https://github.com/yourusername/sentiment-analysis-nlp)
@@ -20,8 +25,7 @@
 - <b>SQL Portfolio</b>  
   - [Complex Queries & Business Insights from Sample Datasets](https://github.com/yourusername/sql-analytics)
 
-- <b>Interactive Dashboard</b>  
-  - [HR Analysis with attrition KPIs in Tableau](https://public.tableau.com/app/profile/shing.balah.clouston/viz/HRDASHBOARD_17446412937940/HRANALYSTICDASHBOARD)
+
 
 <h2>📝 Articles & Resources:</h2>
 
@@ -43,7 +47,6 @@
 
 [github]: https://github.com/BalahC
 [linkedin]: https://www.linkedin.com/in/shingbalahclouston
-
 
 
 
