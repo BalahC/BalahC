@@ -21,7 +21,7 @@
   - [Complex Queries & Business Insights from Sample Datasets](https://github.com/yourusername/sql-analytics)
 
 - <b>Interactive Dashboard</b>  
-  - [HR Analysis with attrition KPIs](https://public.tableau.com/app/profile/shing.balah.clouston/viz/HRDASHBOARD_17446412937940/HRANALYSTICDASHBOARD)
+  - [HR Analysis with attrition KPIs in Tableau](https://public.tableau.com/app/profile/shing.balah.clouston/viz/HRDASHBOARD_17446412937940/HRANALYSTICDASHBOARD)
 
 <h2>📝 Articles & Resources:</h2>
 
