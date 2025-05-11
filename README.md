@@ -6,8 +6,8 @@
 <h2>📊 Data Science & Analytics Projects:</h2>
 
 - <b>Interactive Dashboard</b>  
-  - [HR Analysis with attrition KPIs in Tableau](https://public.tableau.com/app/profile/shing.balah.clouston/viz/HRDASHBOARD_17446412937940/HRANALYSTICDASHBOARD)
-  - [HR Analysis with attrition KPIs in Tableau](https://public.tableau.com/app/profile/shing.balah.clouston/viz/HRDASHBOARD_17446412937940/HRANALYSTICDASHBOARD)
+  - [HR Analysis With Attrition KPIs in Tableau](https://public.tableau.com/app/profile/shing.balah.clouston/viz/HRDASHBOARD_17446412937940/HRANALYSTICDASHBOARD)
+  - [Adidas U.S Sales Analysis](https://github.com/BalahC/ADIDAS-U.S-SALES-ANALYSIS-PROJECT)
 
 - <b>Exploratory Data Analysis (EDA)</b>  
   - [Data Cleaning, Visualization & Insight Generation](https://github.com/BalahC/Sales-Analysis-Dashboard-)
