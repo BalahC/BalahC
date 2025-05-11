@@ -32,6 +32,10 @@
 <h2> 🤝 Connect with me:</h2>
 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shingbalahclouston)
+[![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balahc)
+
+
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [<img align="left" alt="BalahC | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
