@@ -21,7 +21,7 @@
 - <b>Sales Forecasting with Time Series</b>  
   - [ARIMA & Prophet Models for Demand Forecasting](https://github.com/yourusername/sales-forecasting-time-series)
 
-  - <b>SQL Portfolio</b>  
+- <b>SQL Portfolio</b>  
   - [DK Sales & Business Insights from Raw/messy Data](https://github.com/yourusername/sql-analytics)
     
 - <b>NLP Sentiment Analysis</b>
