@@ -20,12 +20,13 @@
   - [Logistic Regression & XGBoost Model for Telecom Churn](https://public.tableau.com/app/profile/shing.balah.clouston/viz/Churn-Analysis_17486965165150/DASHBOARD)
 - <b>Sales Forecasting with Time Series</b>  
   - [ARIMA & Prophet Models for Demand Forecasting](https://github.com/yourusername/sales-forecasting-time-series)
-  
+
+  - <b>SQL Portfolio</b>  
+  - [DK Sales & Business Insights from Raw/messy Data](https://github.com/yourusername/sql-analytics)
+    
 - <b>NLP Sentiment Analysis</b>
   
   - [Movie Reviews Classification using TF-IDF and Logistic Regression](https://github.com/yourusername/sentiment-analysis-nlp)
-- <b>SQL Portfolio</b>  
-  - [Complex Queries & Business Insights from Sample Datasets](https://github.com/yourusername/sql-analytics)
     
 <h2>📝 Articles & Resources:</h2>
 
