@@ -22,7 +22,7 @@
   - [ARIMA & Prophet Models for Demand Forecasting](https://github.com/yourusername/sales-forecasting-time-series)
 
 - <b>SQL Portfolio</b>  
-  - [DK Sales & Business Insights from Raw/messy Data](https://github.com/yourusername/sql-analytics)
+  - [Retail Sales & Business Insights from Raw/messy Data](https://github.com/BalahC/SQL_Retail_Sales_Project)
     
 - <b>NLP Sentiment Analysis</b>
   
