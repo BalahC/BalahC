@@ -17,7 +17,9 @@
 
 - <b>Customer Churn Prediction</b>
   
-  - [Logistic Regression & XGBoost Model for Telecom Churn](https://public.tableau.com/app/profile/shing.balah.clouston/viz/Churn-Analysis_17486965165150/DASHBOARD)
+  - [Logistic Regression Analysis for Telecom Churn](https://public.tableau.com/app/profile/shing.balah.clouston/viz/Churn-Analysis_17486965165150/DASHBOARD)
+  - [Employees_Retention_Analysis_Dashboard](https://public.tableau.com/app/profile/shing.balah.clouston/viz/Book2_17492268687220/Dashboard)
+    
 - <b>Sales Forecasting with Time Series</b>  
   - [ARIMA & Prophet Models for Demand Forecasting](https://github.com/yourusername/sales-forecasting-time-series)
 
