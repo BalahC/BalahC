@@ -7,8 +7,8 @@
 - <b>Interactive Dashboard</b>  
 
   - [HR Analysis With Attrition KPIs in Tableau](https://public.tableau.com/app/profile/shing.balah.clouston/viz/HRDASHBOARD_17446412937940/HRANALYSTICDASHBOARD)
-  - [Adidas U.S Sales Analysis](https://github.com/BalahC/ADIDAS-U.S-SALES-ANALYSIS-PROJECT)
-  - [End-to-end-sales-performance-analytics](https://public.tableau.com/app/profile/shing.balah.clouston/viz/10AlysicSales/EXECUTIVEVIEW)
+  - [Adidas Exploratory_Sales Analysis(EXcel)](https://github.com/BalahC/ADIDAS-U.S-SALES-ANALYSIS-PROJECT)
+  - [Explanatory-Sales-Performance-Dashboard](https://public.tableau.com/app/profile/shing.balah.clouston/viz/10AlysicSales/EXECUTIVEVIEW)
 
 - <b>Exploratory Data Analysis (EDA)</b>
    
